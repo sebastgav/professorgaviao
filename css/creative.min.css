@@ -9,5 +9,6 @@
 #ad{border1: 2px solid; height: 290px; width: 650px; float: left; margin-left: 3px;color:#fff}
 #centro{border1: 1px solid; height: 370px; width: 35px; float: left; margin-left: 6px; background-color:#f05f40!important;}
 #ae{border1: 2px solid; height: 290px; width: 642px; float: right; ;color:#fff}
-#invasao{background-image: url(../img/img5.jpg); width: 235px; height: 164px; margin-right:16px; margin-left: 16px;}
-#sistema{background-image: url(../img/imgan41.jpg); width: 238px; height: 164px; margin-right:6px; margin-left:10px;  }
+#invasao{background-image: url(../img/img5.jpg); width: 235px; height:164px; margin-right:20px; margin-left:16px;}
+#sistema{background-image: url(../img/imgan41.jpg); width: 238px; height:164px; margin-right:6px; margin-left:10px;}
+#reparo{background-image: url(../img/imgan41.jpg); width: 238px; height:164px; margin-right:6px; margin-left:10px;}
